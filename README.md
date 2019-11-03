@@ -1,1 +1,1 @@
-# Image-Processing-Algorithms
+# Image-Processing-All-Filters
